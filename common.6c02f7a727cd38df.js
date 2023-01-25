@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkERP=self.webpackChunkERP||[]).push([[592],{9808:(c,n,e)=>{e.d(n,{n:()=>_});var r=e(6805);function _(o,u){const f="object"==typeof u;return new Promise((l,s)=>{let a,t=!1;o.subscribe({next:E=>{a=E,t=!0},error:s,complete:()=>{t?l(a):f?l(u.defaultValue):s(new r.K)}})})}}}]);

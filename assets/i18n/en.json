@@ -1,0 +1,13 @@
+{
+  "general": {
+    "productName": "ERP Sytem",
+    "productDescription": "The best offer for your business",
+    "productMessage": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, itaque accusantium odio, soluta, corrupti aliquam quibusdam tempora at cupiditate quis eum maiores libero veritatis? Dicta facilis sint aliquid ipsum atque?"
+  },
+  "Input": {
+    "UserName": "User Name",
+    "Password": "Password",
+    "Submit": "Submit",
+    "Search": "Search"
+  }
+}
